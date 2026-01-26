@@ -7,7 +7,7 @@ I'm interested in data science and analysis, statistics, and machine learning.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%23666666?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%23666666?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23666666?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23666666?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23666666?style=for-the-badge&logo=java&logoColor=white" />
 </p>
