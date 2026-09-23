@@ -31,9 +31,9 @@ I'm interested in data science and analysis, statistics, and machine learning.
 
 ### GitHub Statistics
 
-![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldrogosz&show_icons=true&theme=graywhite)
+![[Lena's GitHubStats](https://github-stats-extended.vercel.app/api?username=ldrogosz&show_icons=true&theme=graywhite)](https://github.com/stats-organization/github-stats-extended)
 
-![Lena's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldrogosz&show_icons=true&theme=graywhite)
+[![Lena's TopLangs](https://github-stats-extended.vercel.app/api/top-langs?username=ldrogosz&layout=compact&langs_count=4&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=graywhite)
 
 ### Ways to Connect
 
